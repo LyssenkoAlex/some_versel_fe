@@ -1,0 +1,1 @@
+export const apiUrl = 'https://some-vercel-git-main-lyssenkoalex.vercel.app';
